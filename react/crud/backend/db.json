@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Arthur de Oliveira",
+      "email": "aoliveira@cod3r.com.br"
+    },
+    {
+      "name": "Leonardo Augusto Kraisch",
+      "email": "leonardo@bol.com",
+      "id": 3
+    }
+  ]
+}
